@@ -1,6 +1,6 @@
 {
   "name": "evalkit",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "The TypeScript LLM Evaluation Library",
   "main": "src/index.ts",
   "scripts": {
